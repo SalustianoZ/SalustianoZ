@@ -1,16 +1,23 @@
-### Hi there 👋
+##
 
-<!--
-**SalustianoZ/SalustianoZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">💻 PRIMERA ENTREGA 💻
 
-Here are some ideas to get you started:
+## 📂Breve descripción
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Creamos un software que nos permite ver un negocio con sus respectivas sucursales, en la que podemos encontrar las distintas listas de productos, lista de usuarios o tambien buscar productos.
+
+## :hammer:Funcionalidades del proyecto
+
+-—- Una vez dentro del runserver http://127.0.0.1:8000/ podriamos acceder a:
+
+.. http://127.0.0.1:8000/sucursal_1/index.html para acceder a la sucursal
+
+.. http://127.0.0.1:8000/productos/lista.html para obtener mas informacion de los productos.
+
+.. http://127.0.0.1:8000/usuarios/lista.html para obtener mas informacion de los usuarios.
+
+.. http://127.0.0.1:8000/productos/productoFormulario.html para obtener datos sobre el producto.
+
+.. http://127.0.0.1:8000/productos/getProductos.html para obtener el producto
+
+.. http://127.0.0.1:8000/productos/resultadoBusqueda.html para buscar el producto.
